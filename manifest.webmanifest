@@ -1,0 +1,7 @@
+{
+  "icons": [
+    { "src": "images/logobus192.png", "type": "image/png", "sizes": "192x192" },
+    { "src": "images/logobus256.png", "type": "image/png", "sizes": "256x256" },
+    { "src": "images/logobus512.png", "type": "image/png", "sizes": "512x512" }
+  ]
+}

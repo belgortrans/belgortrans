@@ -1,0 +1,55 @@
+STYLE BODY {
+        MARGIN-TOP: 10pt
+}
+P {
+        FONT: 12pt verdana; MARGIN-TOP: 10pt; TEXT-INDENT: 0cm; MARGIN-TOP: 10pt; MARGIN-LEFT: 10pt
+}
+H1 {
+        FONT: 18pt verdana, arial, san-serif; MARGIN-TOP: 10pt; ALIGN: CENTER; MARGIN-LEFT: 10pt; FONT-WEIGHT: bold
+}
+H3 {
+        FONT: 14pt verdana, arial, san-serif; ALIGN: CENTER; ALIGN: CENTER; FONT-WEIGHT: bold; MARGIN-LEFT: 10pt; FONT-WEIGHT: bold
+}
+H4 {
+        FONT: 14pt verdana, arial, san-serif; MARGIN-TOP: 1pt; ALIGN: CENTER; MARGIN-LEFT: 10pt; FONT-WEIGHT: bold
+}
+H5 {
+        FONT: 12pt verdana, arial, san-serif; MARGIN-TOP: -10pt; ALIGN: CENTER; MARGIN-LEFT: 10pt
+}
+BLOCKQUOTE {
+        FONT-SIZE: 0.75in; FONT-STYLE: normal; FONT-VARIANT: normal; FONT-WEIGHT: normal; LINE-HEIGHT: normal; MARGIN-RIGHT: 0.75in
+}
+    A:link {color: #0000AA; font-family: Verdana,Arial, MS Sans Serif, sans-serif; TEXT-DECORATION: none}
+    A:visited {color: #0000AA; font-family: Verdana,Arial, MS Sans Serif, sans-serif; TEXT-DECORATION: none}
+    A:active {font-family: Verdana,Arial, MS Sans Serif, sans-serif; TEXT-DECORATION: none}
+    A:hover {color: #00AAFF;font-family: Verdana,Arial, MS Sans Serif, sans-serif; TEXT-DECORATION: none}
+.img1 {
+        MARGIN-TOP: 5px
+}
+.nrm {
+        FONT: 11pt verdana; MARGIN-TOP: 10pt; TEXT-ALIGN: justify; TEXT-INDENT: 0cm
+}
+.txt {
+        FONT: 10pt verdana; MARGIN-TOP: 10pt; TEXT-ALIGN: justify; TEXT-INDENT: 0cm
+}
+:hover {
+        COLOR: #00ddff; TEXT-DECORATION: none
+}
+.tr {
+        COLOR: #a70404; FONT-WEIGHT: bold
+}
+.tr:hover {
+        COLOR: #ff0404; TEXT-DECORATION: none
+}
+.tl {
+        COLOR: #040455; FONT-WEIGHT: bold
+}
+.tl:hover {
+        COLOR: #0404ff; TEXT-DECORATION: none
+}
+.bs {
+        COLOR: #040455; FONT-WEIGHT: bold
+}
+.bs:hover {
+        COLOR: #040484; TEXT-DECORATION: none
+}

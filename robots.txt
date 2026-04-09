@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Disallow: mt.html
+Disallow: /foto/
+Disallow: /fotki
+Disallow: /images/
+Disallow: /shema/
+Disallow: /shemanew/
+Disallow: /soft/
